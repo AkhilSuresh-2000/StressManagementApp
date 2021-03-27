@@ -1,0 +1,45 @@
+
+/* Class = "UIButton"; normalTitle = "Check Stress"; ObjectID = "2e5-By-yNU"; */
+"2e5-By-yNU.normalTitle" = "Check Stress";
+
+/* Class = "UIButton"; normalTitle = " Check your Stress levels here!"; ObjectID = "BNO-GM-rN7"; */
+"BNO-GM-rN7.normalTitle" = " Vérifiez vos niveaux de stress ici!";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Fz9-6W-vuR"; */
+"Fz9-6W-vuR.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Lr8-Js-Ego"; */
+"Lr8-Js-Ego.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Text Text Text"; ObjectID = "Lwh-6D-VhB"; */
+"Lwh-6D-VhB.text" = "Text Text Text";
+
+/* Class = "UILabel"; text = "Title  Title Title Title Title Title Title title "; ObjectID = "MdY-W5-pLN"; */
+"MdY-W5-pLN.text" = "Title  Title Title Title Title Title Title title ";
+
+/* Class = "UILabel"; text = "Author"; ObjectID = "Oi0-SD-drW"; */
+"Oi0-SD-drW.text" = "Author";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RET-X6-Uf5"; */
+"RET-X6-Uf5.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XL0-VL-MUg"; */
+"XL0-VL-MUg.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Check Stress"; ObjectID = "bfW-ka-9bm"; */
+"bfW-ka-9bm.title" = "Check Stress";
+
+/* Class = "UILabel"; text = "The main purpose of better life is to help you achieve a more peaceful life."; ObjectID = "ckN-KB-I20"; */
+"ckN-KB-I20.text" = "Le but principal d'une vie meilleure est de vous aider à mener une vie plus paisible.";
+
+/* Class = "UINavigationItem"; title = "Stress Level Checker"; ObjectID = "hxf-PV-xK2"; */
+"hxf-PV-xK2.title" = "Vérificateur de niveau de stress";
+
+/* Class = "UIButton"; normalTitle = "Get Started "; ObjectID = "mnV-L0-Wnq"; */
+"mnV-L0-Wnq.normalTitle" = "Commencer";
+
+/* Class = "UILabel"; text = "Better Life"; ObjectID = "oyz-xf-ugF"; */
+"oyz-xf-ugF.text" = "Meilleure vie";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "w8l-NE-iqw"; */
+"w8l-NE-iqw.normalTitle" = "Button";
